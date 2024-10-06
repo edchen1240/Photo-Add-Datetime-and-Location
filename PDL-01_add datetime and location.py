@@ -14,7 +14,7 @@ import Module_1_File as M1F
 
 #path_media = r'D:\01_Floor\a_Ed\09_EECS\10_Python\04_OngoingTools\2024-1005_Photo Add Datetime and Location\PDL-01_Test image\IMG_0952.JPG'
 #path_media = r'D:\01_Floor\a_Ed\09_EECS\10_Python\04_OngoingTools\2024-1005_Photo Add Datetime and Location\PDL-01_Test image\IMG_0360_600x450.JPG'
-path_media = r'D:\01_Floor\a_Ed\09_EECS\10_Python\04_OngoingTools\2024-1005_Photo Add Datetime and Location\PDL-01_Test image\2024-0131_The Yale Bookstore_3024x4032_(info removed).JPG'
+path_media = r'D:\01_Floor\a_Ed\09_EECS\10_Python\04_OngoingTools\2024-1005_Photo Add Datetime and Location\PDL-01_Test image\2021-1028_Urban Light_900x1200.JPG'
 
 
 if __name__ == "__main__":
